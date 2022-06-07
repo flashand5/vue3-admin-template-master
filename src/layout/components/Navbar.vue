@@ -32,7 +32,7 @@
             <router-link to="/user-info/resetPass">
             <el-dropdown-item>修改密码</el-dropdown-item>
             </router-link>
-            <a target="_blank" href="https://juejin.cn/post/7036302298435289095">
+            <a target="_blank" href="https://github.com/flashand5/vue3-admin-template-master.git">
               <el-dropdown-item>Github</el-dropdown-item>
             </a>
             <el-dropdown-item divided @click="loginOut">登出</el-dropdown-item>
